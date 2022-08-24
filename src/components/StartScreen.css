@@ -1,0 +1,55 @@
+.titulo_inicial{
+  margin-top: 100%;
+}
+
+.start{
+  font-family: 'fantasy';
+  text-transform: uppercase;
+  border-radius: 15px;
+  margin: 0;
+}
+
+h1{
+  font-size: 2.5em;
+  justify-content: flex-start;
+  display: flex;
+}
+
+h2{
+  font-size: 5em;
+}
+
+@keyframes animates{
+  0%{
+    border: 3px solid rgb(100, 91, 228);
+  }
+
+  50%{
+    border: 3px solid rgb(92, 7, 189);   
+  }
+
+  100%{
+    border: 1px solid rgb(44, 5, 134);  
+    padding: 10px;
+  }
+}
+
+.butao_inicial{
+  background-color: rgb(7, 7, 7);
+  padding: 10px;
+  width: 180px;
+  font-size: 20px;
+  color: white;
+  border-radius: 5px;
+  animation: animates 2s linear forwards infinite;
+  transition: 0.3s;
+  margin-top: 10%;
+}
+.butao_inicial:hover{
+  background-color: rgb(65, 3, 236)10%;
+  border: 3px solid rgb(255, 255, 255);
+  cursor: pointer;
+  animation: none;
+  transition: 0.4s;
+  border-radius: 15px;
+}

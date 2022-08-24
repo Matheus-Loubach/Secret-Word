@@ -1,0 +1,14 @@
+@media only screen and (max-width: 900px) {
+  .blankSquare,.letter {
+    width: 35px;   
+    font-size: 20px;
+    align-items: center;
+    line-height: 4.5;
+    overflow: hidden;
+  }
+
+  .game h1 {
+    font-size: 1.5em;
+  }
+
+}

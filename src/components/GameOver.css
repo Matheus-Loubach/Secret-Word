@@ -1,0 +1,26 @@
+.titulo_fimDeJogo{
+  font-size: 50px;
+  justify-content: center;
+}
+
+.score_fimDeJogo{
+  font-size: 20px;
+  margin-bottom: 80%;
+}
+
+.score_fimDeJogo span{
+  color: #ecfa00;
+}
+.link-git p{
+  background-color: #000;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.link-git{
+  text-decoration: none;
+  color: white;
+}
+.botao-fimDeJogo{
+  margin-bottom: 195px;
+}
