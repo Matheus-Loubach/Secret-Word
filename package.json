@@ -1,5 +1,4 @@
-{ "homepage": "https://github.com/Matheus-Loubach/Secret-Word.git",
-  "name": "secret-word",
+{  "name": "secret-word",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
