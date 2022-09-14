@@ -9,7 +9,7 @@
 
 # Stack Utilizada
 ReactJS, JavaScript, CSS, HTML
-Com utlização de hooks.
+- Com utlização de hooks.
 
 #Totalmente responsivo Para Mobile!
 
