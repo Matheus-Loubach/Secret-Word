@@ -12,7 +12,8 @@ ReactJS, JavaScript, CSS, HTML
 Com utlização de hooks.
 
 #Totalmente responsivo Para Mobile!
-[Captura de Tela (302)](https://user-images.githubusercontent.com/34719454/190030460-725dcfe1-699c-4cd6-86d7-7c8ff3f00c31.png)
+
+![Captura de Tela (302)](https://user-images.githubusercontent.com/34719454/190030460-725dcfe1-699c-4cd6-86d7-7c8ff3f00c31.png)
 
 
 Jogue: https://secret-word-blond.vercel.app
