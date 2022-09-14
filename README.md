@@ -2,7 +2,7 @@
 
 ![Captura de Tela (301)](https://user-images.githubusercontent.com/34719454/190030454-914b4206-21c2-4e9e-9eaf-f8a9d11f3566.png)
 
--- Jogo de tentar advinhar a palavra correta
+- Jogo de tentar advinhar a palavra correta
 - Possui 5 chances 
 - Ao acertar a palavra recebe pontos que vão acumulando
 - Sem limite de tempo
